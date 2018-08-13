@@ -28,7 +28,7 @@ blog:
 author:
   fullname                  : Ding Ye
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : 805545608@qq.com # change to your e-mail address
+  mail                      : 805545608@qq.com  # change to your e-mail address
   twitter                   : twitter-user-name
   github                    : Harukoo
   youtube                   : youtube-user-name
