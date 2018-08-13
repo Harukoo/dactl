@@ -5,7 +5,7 @@ tags:
   - dactl
   - jekyll
 hero: https://github.com/harukoo/dactl/raw/master/images/20180813220810.jpg
-overlay: red
+overlay: None
 published: true
 
 ---
