@@ -4,8 +4,8 @@ title:  "Welcome to dactl!"
 tags:
   - dactl
   - jekyll
-hero: https://github.com/harukoo/dactl/raw/master/images/20180813220810.jpg
-overlay: None
+hero: https://source.unsplash.com/collection/430471/
+overlay: red
 published: true
 
 ---
